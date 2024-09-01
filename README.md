@@ -12,12 +12,12 @@ To log in as an Admin, you need to manually set the Admin entry to `true` in Mon
 
 ## Admin Credentials for deployed porject
 
-- **Email:** pranjal@123
-- **Password:** pranjal
+- **Email:** vaishnav@123
+- **Password:** vaishnav
 
 ## Installation Process
 
-1. git clone https://github.com/Pranjal-2004/bloggingmern.git
+1. git clone   https://github.com/vaishnavgond47/blog
 2. cd bloggingmern
 3. cd client
 4. npm install
